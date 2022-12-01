@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="School.xsl" type="text/xsl"?>
+<?xml-model href="School.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+    <school>
+        <employee>
+            <empname>Ashi</empname>
+            <age>25</age>
+            <salary>200000</salary>
+            <email>ashi@gmail.com</email>
+            <no>1234567098</no>
+            <designation>Senior Teacher</designation>
+        </employee>
+        <employee>
+            <empname>Achu</empname>
+            <age>23</age>
+            <salary>2300000</salary>
+            <email>achu@gmail.com</email>
+            <no>9984357934</no>
+            <designation>Senior Teacher</designation>
+        </employee>
+        <employee>
+            <empname>Anna</empname>
+            <age>28</age>
+            <salary>70000</salary>
+            <email>anna@gmail.com</email>
+            <no>9876546549</no>
+            <designation>Manager</designation>
+        </employee>
+    </school>
